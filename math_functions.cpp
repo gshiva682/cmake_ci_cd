@@ -1,8 +1,4 @@
-// main.cpp
-#include <iostream>
-#include "math_functions.cpp"
-
-
+// math_functions.cpp
 int add(int a, int b) {
     return a + b;
 }
