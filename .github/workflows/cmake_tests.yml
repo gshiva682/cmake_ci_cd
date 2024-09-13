@@ -23,7 +23,7 @@ jobs:
       run: |
         mkdir -p build
         cd build
-        cmake ..
+        cmake .
         make
     - name: Run tests
       run: |
